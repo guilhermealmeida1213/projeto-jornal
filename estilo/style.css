@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.5em;
+}
+
+main {
+    max-width: 1000px;
+    min-width: 460px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    text-align: justify;
+    box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.11);
+}
+
+main > h1 {
+    font-family: 'DM Serif Display', serif;
+    margin: 21px;
+}
+
+p {
+    margin: 10px; 
+    text-indent: 15px;
+    color: rgba(12, 12, 12, 0.89);
+    font-size: 1.5em;
+    }
+
+img {
+    margin: auto;
+    display: block;
+}
+
+hr.d1 {
+    margin-top: 15px;
+}
+
+h4 {
+    margin: 10px;
+    font-family: 'DM Serif Display', serif;
+}
+
+footer {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 60px;
+    padding-top: 50px;
+    background-color: black;
+    color: white;
+}
+
+
+background-color: #FFEFD5;
