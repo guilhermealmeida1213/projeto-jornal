@@ -38,7 +38,7 @@ p {
     margin: 10px; 
     text-indent: 15px;
     color: rgba(12, 12, 12, 0.89);
-    font-size: 1.5em;
+    font-size: 1.2em;
     }
 
 img {
@@ -52,6 +52,11 @@ hr.d1 {
 
 h4 {
     margin: 10px;
+    font-family: 'DM Serif Display', serif;
+}
+
+h3 {
+    margin: 20px;
     font-family: 'DM Serif Display', serif;
 }
 
