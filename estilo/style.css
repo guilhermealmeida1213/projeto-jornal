@@ -68,3 +68,12 @@ footer {
     background-color: black;
     color: white;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
